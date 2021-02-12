@@ -1,0 +1,11 @@
+{
+  "name": "jwt_livecode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/Anikram/jwt_livecode_tut.git",
+  "author": "Anikram <4nikram@gmail.com>",
+  "license": "MIT"
+}
