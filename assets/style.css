@@ -1,0 +1,18 @@
+body {
+    font-family: monospace;
+    color: cyan;
+    background: black;
+}
+
+h1 {
+    font-size: 5rem;
+    text-shadow: deeppink 2px 2px;
+}
+
+.header {
+    font-weight: 500;
+}
+
+.hidden {
+    display: none;
+}
